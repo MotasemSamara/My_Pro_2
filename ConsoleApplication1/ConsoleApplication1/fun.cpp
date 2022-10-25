@@ -3,10 +3,10 @@ using namespace std;
 
 void main ()
 {
-	int age=90;
+	int x=1;
 	int year =2003;
 	double today =100.92;
-	cout <<"Age =:  "<<age<<endl;
+	cout <<"X =:  "<<x<<endl;
 	cout <<"Year =:  "<<year<<endl;
 	cout <<"Today =:  "<<today<<endl;
 
